@@ -46,5 +46,4 @@ int main (void){
   printf("the average above average is%f", averagetwo);
 
  return 0;
-
 }
